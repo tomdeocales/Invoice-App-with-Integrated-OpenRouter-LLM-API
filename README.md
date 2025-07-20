@@ -36,9 +36,9 @@ node src/db/sync.js
 node src/index.js
 ```
 
-### 3. Frontend Setup
+### 3. Frontend Setup (Open new terminal)
 ```sh
-cd ../client
+cd client
 npm install
 npm start
 ```
