@@ -51,7 +51,13 @@ npm start
   - **Username:** `admin`
   - **Password:** `admin`
 
-### 6. AI-Powered Query
+### 6. Create a Client & Invoice
+- Click the button aligned with client.
+- Fill the necessary information.
+- Click the button aligned with Invoice.
+- Fill the necessary information.
+
+### 7. AI-Powered Query
 - Go to the "AI Query" page in the app.
 - Enter a business question (e.g., "Which clients are at risk of churn?").
 - The AI will analyze your data and provide an answer.
