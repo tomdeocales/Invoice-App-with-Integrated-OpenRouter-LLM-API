@@ -1,0 +1,16 @@
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Environment variables
+server/.env
+
+# Build output (React)
+client/build/
+
+# Logs
+*.log
+
+# System files (optional, but safe)
+.DS_Store
+Thumbs.db
